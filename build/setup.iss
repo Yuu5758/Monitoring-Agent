@@ -1,7 +1,7 @@
-#define MyAppName "Tactical RMM Agent"
-#define MyAppVersion "2.11.0"
-#define MyAppPublisher "AmidaWare Inc"
-#define MyAppURL "https://tacticalrmm.com"
+#define MyAppName "One Monitoring Agent"
+#define MyAppVersion "1.0.0"
+#define MyAppPublisher "One Monitoring"
+#define MyAppURL "https://github.com/Yuu5758/One-Monitoring"
 #define MyAppExeName "tacticalrmm.exe"
 #define MESHEXE "meshagent.exe"
 #define MESHDIR "{sd}\Program Files\Mesh Agent"
@@ -28,7 +28,7 @@ WizardStyle=modern
 RestartApplications=no
 CloseApplications=no
 MinVersion=6.1
-VersionInfoVersion=2.11.0.0
+VersionInfoVersion=1.0.0.0
 VersionInfoOriginalFileName=tacticalrmm.exe
 AppCopyright="Copyright (C) 2026 {#MyAppPublisher}"
 

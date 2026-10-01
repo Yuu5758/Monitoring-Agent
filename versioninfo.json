@@ -1,14 +1,14 @@
 {
     "FixedFileInfo": {
         "FileVersion": {
-            "Major": 2,
-            "Minor": 11,
+            "Major": 1,
+            "Minor": 0,
             "Patch": 0,
             "Build": 0
         },
         "ProductVersion": {
-            "Major": 2,
-            "Minor": 11,
+            "Major": 1,
+            "Minor": 0,
             "Patch": 0,
             "Build": 0
         },
@@ -22,14 +22,14 @@
         "Comments": "",
         "CompanyName": "One Monitoring",
         "FileDescription": "One Monitoring Agent",
-        "FileVersion": "v2.11.0.0",
+        "FileVersion": "v1.0.0.0",
         "InternalName": "tacticalrmm.exe",
         "LegalCopyright": "Copyright (c) 2026 One Monitoring",
         "LegalTrademarks": "",
         "OriginalFilename": "tacticalrmm.exe",
         "PrivateBuild": "",
         "ProductName": "One Monitoring Agent",
-        "ProductVersion": "v2.11.0.0",
+        "ProductVersion": "v1.0.0.0",
         "SpecialBuild": ""
     },
     "VarFileInfo": {
